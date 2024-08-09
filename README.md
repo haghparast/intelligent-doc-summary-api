@@ -33,7 +33,7 @@ The Intelligent Document Summarization API allows users to upload documents in v
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/intelligent-doc-summary-api.git
+    git clone https://github.com/haghparast/intelligent-doc-summary-api.git
     cd intelligent-doc-summary-api
     ```
 
